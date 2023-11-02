@@ -11,7 +11,7 @@ package com.mycompany.programa_18;
 public class Programa_18 {
 
     public static void main(String[] args) {
-        double sal=9000, suma=0;
+        double sal=19800, suma=0;
         System.out.println("Salario del 1° año: "+sal);
         suma=suma+sal;
         for(int i=2;i<=6;i++){
