@@ -2,7 +2,7 @@ using System;
 namespace Programa_18;
 class Sal{
     static void Main(string[] args){
-        double sal=9000, suma=0;
+        double sal=19800, suma=0;
         Console.WriteLine("Salario del 1° year: "+sal);
         suma=suma+sal;
         for(int i=2;i<=6;i++){
